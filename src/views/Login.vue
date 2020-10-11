@@ -6,7 +6,8 @@
       <input v-model="contrasena" type="password" placeholder="Contraseña" />
       <input type="submit" value="ingresar" />
     </form>
-
+ <h1>user:revanskyw@gmail.com</h1>
+    <h1>pass:12345678</h1>
 
     <pre>
 
